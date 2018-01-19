@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ColorMatch</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="menu_restart">Recommencer</string>
+    <string name="menu_pause">Pause</string>
+    <string name="menu_quitter">Quitter</string>
+    <string name="menu_son">Activer/Désactiver son</string>
+    <string name="QUITTER">Quitter</string>
+    <string name="JOUER">Jouer</string>
+    <string name="title_activity_activity_jeu">Activity_jeu</string>
+
+</resources>

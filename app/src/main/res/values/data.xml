@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="integer" name="nombre_de_blanc">20</item>
+    <item type="integer" name="paire">40</item>
+    <item type="integer" name="triplet">60</item>
+    <item type="integer" name="quadruplet">120</item>
+    <item type="integer" name="timeGame">90</item>
+    <item type="integer" name="m_caseTemps">2</item>
+    
+</resources>

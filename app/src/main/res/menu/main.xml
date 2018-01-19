@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_restart"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/menu_restart" android:menuCategory="container"/>
+    <item android:id="@+id/menu_quitter" android:title="@string/menu_quitter" android:orderInCategory="101" android:menuCategory="container"></item>
+    <item android:id="@+id/menu_son" android:menuCategory="container" android:title="@string/menu_son" android:orderInCategory="99"></item>
+
+</menu>

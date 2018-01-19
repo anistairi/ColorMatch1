@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\soumah\\AndroidStudioProjects\\ColorMatch1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_background.png",
+        "source": "C:\\Users\\soumah\\AndroidStudioProjects\\ColorMatch1\\app\\src\\main\\res\\drawable\\top_background.png"
+    },
+    {
+        "merged": "C:\\Users\\soumah\\AndroidStudioProjects\\ColorMatch1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_colors.png",
+        "source": "C:\\Users\\soumah\\AndroidStudioProjects\\ColorMatch1\\app\\src\\main\\res\\drawable\\img_colors.png"
+    },
+    {
+        "merged": "C:\\Users\\soumah\\AndroidStudioProjects\\ColorMatch1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\init_colors.png",
+        "source": "C:\\Users\\soumah\\AndroidStudioProjects\\ColorMatch1\\app\\src\\main\\res\\drawable\\init_colors.png"
+    }
+]

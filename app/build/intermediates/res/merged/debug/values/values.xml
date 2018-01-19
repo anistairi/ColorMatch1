@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <item name="m_caseTemps" type="integer">2</item>
+    <item name="nombre_de_blanc" type="integer">20</item>
+    <item name="paire" type="integer">40</item>
+    <item name="quadruplet" type="integer">120</item>
+    <item name="timeGame" type="integer">90</item>
+    <item name="triplet" type="integer">60</item>
+    <string name="JOUER">Jouer</string>
+    <string name="QUITTER">Quitter</string>
+    <string name="app_name">ColorMatch</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_pause">Pause</string>
+    <string name="menu_quitter">Quitter</string>
+    <string name="menu_restart">Recommencer</string>
+    <string name="menu_son">Activer/Désactiver son</string>
+    <string name="title_activity_activity_jeu">Activity_jeu</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

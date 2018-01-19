@@ -1,0 +1,256 @@
+[
+    {
+        "outputFile": "C:\\Users\\soumah\\AndroidStudioProjects\\ColorMatch1\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\soumah\\AndroidStudioProjects\\ColorMatch1\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\soumah\\AndroidStudioProjects\\ColorMatch1\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "C:\\Users\\soumah\\AndroidStudioProjects\\ColorMatch1\\app\\src\\main\\res\\values\\data.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 57,
+                    "endOffset": 275
+                },
+                "from": {
+                    "file": "C:\\Users\\soumah\\AndroidStudioProjects\\ColorMatch1\\app\\src\\main\\res\\values\\data.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 280,
+                    "endColumn": 47,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "C:\\Users\\soumah\\AndroidStudioProjects\\ColorMatch1\\app\\src\\main\\res\\values\\data.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endColumn": 53,
+                    "endOffset": 377
+                },
+                "from": {
+                    "file": "C:\\Users\\soumah\\AndroidStudioProjects\\ColorMatch1\\app\\src\\main\\res\\values\\data.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 382,
+                    "endColumn": 50,
+                    "endOffset": 428
+                },
+                "from": {
+                    "file": "C:\\Users\\soumah\\AndroidStudioProjects\\ColorMatch1\\app\\src\\main\\res\\values\\data.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 265,
+                        "endColumn": 50,
+                        "endOffset": 311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 433,
+                    "endColumn": 49,
+                    "endOffset": 478
+                },
+                "from": {
+                    "file": "C:\\Users\\soumah\\AndroidStudioProjects\\ColorMatch1\\app\\src\\main\\res\\values\\data.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 483,
+                    "endColumn": 39,
+                    "endOffset": 518
+                },
+                "from": {
+                    "file": "C:\\Users\\soumah\\AndroidStudioProjects\\ColorMatch1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 523,
+                    "endColumn": 43,
+                    "endOffset": 562
+                },
+                "from": {
+                    "file": "C:\\Users\\soumah\\AndroidStudioProjects\\ColorMatch1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 567,
+                    "endColumn": 47,
+                    "endOffset": 610
+                },
+                "from": {
+                    "file": "C:\\Users\\soumah\\AndroidStudioProjects\\ColorMatch1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 615,
+                    "endColumn": 52,
+                    "endOffset": 663
+                },
+                "from": {
+                    "file": "C:\\Users\\soumah\\AndroidStudioProjects\\ColorMatch1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 668,
+                    "endColumn": 44,
+                    "endOffset": 708
+                },
+                "from": {
+                    "file": "C:\\Users\\soumah\\AndroidStudioProjects\\ColorMatch1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 713,
+                    "endColumn": 48,
+                    "endOffset": 757
+                },
+                "from": {
+                    "file": "C:\\Users\\soumah\\AndroidStudioProjects\\ColorMatch1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 762,
+                    "endColumn": 52,
+                    "endOffset": 810
+                },
+                "from": {
+                    "file": "C:\\Users\\soumah\\AndroidStudioProjects\\ColorMatch1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 815,
+                    "endColumn": 59,
+                    "endOffset": 870
+                },
+                "from": {
+                    "file": "C:\\Users\\soumah\\AndroidStudioProjects\\ColorMatch1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 875,
+                    "endColumn": 68,
+                    "endOffset": 939
+                },
+                "from": {
+                    "file": "C:\\Users\\soumah\\AndroidStudioProjects\\ColorMatch1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 944,
+                    "endColumn": 60,
+                    "endOffset": 1000
+                },
+                "from": {
+                    "file": "C:\\Users\\soumah\\AndroidStudioProjects\\ColorMatch1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1005,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1291
+                },
+                "from": {
+                    "file": "C:\\Users\\soumah\\AndroidStudioProjects\\ColorMatch1\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1296,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1451
+                },
+                "from": {
+                    "file": "C:\\Users\\soumah\\AndroidStudioProjects\\ColorMatch1\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]
